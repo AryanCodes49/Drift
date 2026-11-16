@@ -2,7 +2,7 @@
 
 **A small place to play.** Twenty-six tiny worlds for a little focus, a little chaos, and a little calm.
 
-**Live demo:** [xdnothacked69.github.io/Drift](https://xdnothacked69.github.io/Drift/)
+**Live demo:** [aryancodes49.github.io/Drift](https://aryancodes49.github.io/Drift/)
 
 Drift is a self-contained browser arcade built with vanilla HTML, CSS, and JavaScript. There is no build step, package manager, account, backend, or installation required.
 
